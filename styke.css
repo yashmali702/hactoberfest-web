@@ -1,0 +1,56 @@
+#navbar{
+  position: relative;
+}
+
+.logo{
+  width: 5%;
+}
+
+body{
+  font-family: 'Nova Square', cursive;
+
+  font-size: 30px;
+}
+
+
+
+.middle{
+  margin-top: 100px;
+  position: relative;
+  background-color: black;
+  padding: 140px;
+}
+
+img{
+  width: 98%;
+}
+
+img:hover{
+  box-sizing: border-box;
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
+
+.text{
+  margin: 100px 0 100px 100px;
+
+}
+
+
+#Contribution{
+  background-color: black;
+  color: #fff;
+}
+
+.you{
+  font-size: 20px;
+}
+
+.Vishal{
+  color: #31E1F7;
+}
+
+.gaurav{
+  color: white;
+}
