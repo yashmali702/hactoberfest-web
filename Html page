@@ -1,0 +1,5 @@
+ HTML-  <p class="JSCOE"> Excited to kick off #Hacktoberfest 2023! 🌟 Let's code, collaborate, and celebrate open source together. Join the global tech community in making meaningful contributions this October. </p>
+ 
+ CSS-  .JSCOE{
+        color: black;
+        }
